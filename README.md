@@ -1,4 +1,5 @@
-# Machine_Learning_Coursera
+# Machine Learning Coursera
+
 Exercises from the Cousera Course: Machine Learning
 
 ###Exercise 1:
